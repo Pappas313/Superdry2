@@ -1,0 +1,7 @@
+C:\Users\Dell XPS 13\source\repos\Superdry2\Superdry2\bin\Debug\Superdry2.exe.config
+C:\Users\Dell XPS 13\source\repos\Superdry2\Superdry2\bin\Debug\Superdry2.exe
+C:\Users\Dell XPS 13\source\repos\Superdry2\Superdry2\bin\Debug\Superdry2.pdb
+C:\Users\Dell XPS 13\source\repos\Superdry2\Superdry2\obj\Debug\Superdry2.csprojAssemblyReference.cache
+C:\Users\Dell XPS 13\source\repos\Superdry2\Superdry2\obj\Debug\Superdry2.csproj.CoreCompileInputs.cache
+C:\Users\Dell XPS 13\source\repos\Superdry2\Superdry2\obj\Debug\Superdry2.exe
+C:\Users\Dell XPS 13\source\repos\Superdry2\Superdry2\obj\Debug\Superdry2.pdb
